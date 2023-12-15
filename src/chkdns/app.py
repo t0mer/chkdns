@@ -118,4 +118,3 @@ async def cli(type, host):
             table.caption = caption
             live.update(table)
 
-cli()
